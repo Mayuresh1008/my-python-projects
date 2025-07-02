@@ -49,7 +49,7 @@ python main.py
 
 
 ✅ Status
-- ✔️ Project Complete
+<\n> ✔️ Project Complete
 
 📝 Can be improved later with:
 
