@@ -45,8 +45,8 @@ python main.py
 
 ## Screenshot
 
-![screenshot of program](![Screenshot 2025-07-02 232229](https://github.com/user-attachments/assets/c13e3f0f-0355-4bf7-a28f-2dd6fda66460)
-)
+(![screenshot of terminal](https://github.com/user-attachments/assets/c13e3f0f-0355-4bf7-a28f-2dd6fda66460)
+
 
 ✅ Status
 ✔️ Project Complete
