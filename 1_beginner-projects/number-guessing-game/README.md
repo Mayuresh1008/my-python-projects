@@ -48,8 +48,8 @@ python main.py
 ![screenshot of terminal](https://github.com/user-attachments/assets/c13e3f0f-0355-4bf7-a28f-2dd6fda66460)
 
 
-✅ Status
-<\n> ✔️ Project Complete
+### ✅ Status
+✔️ Project Complete
 
 📝 Can be improved later with:
 
