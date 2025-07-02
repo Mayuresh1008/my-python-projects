@@ -24,8 +24,8 @@ This collection showcases my progress in Python programming through hands-on pro
 
 ## 🔗 Connect With Me
 
-- GitHub: [@yourusername](https://github.com/Mayuresh1008)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/mayureshpatil02)
+- GitHub: [@Mayuresh1008](https://github.com/Mayuresh1008)
+- LinkedIn: [Mayuresh Patil](https://linkedin.com/in/mayureshpatil02)
 
 ---
 
