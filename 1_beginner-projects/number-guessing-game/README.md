@@ -25,8 +25,7 @@ A simple Python terminal-based game where the user tries to guess a randomly gen
 ---
 
 ## 🧪 Sample Output
-```terminal
-
+```
 --------------- NUMBER GUESSING GAME ---------------
 Enter a guess: 50
 Too High!!
