@@ -25,7 +25,7 @@ A simple Python terminal-based game where the user tries to guess a randomly gen
 ---
 
 ## 🧪 Sample Output
-
+```
 --------------- NUMBER GUESSING GAME ---------------
 Enter a guess: 50
 Too High!!
@@ -33,7 +33,7 @@ Enter a guess: 20
 Too Low!!
 Enter a guess: 35
 Yay!, Your guess is correct number in 3 attempts.
-
+```
 
 ---
 
@@ -43,11 +43,12 @@ Yay!, Your guess is correct number in 3 attempts.
 python main.py
 ```
 
-## Screenshot
+## Screenshot of terminal
 
-![screenshot of program](image.png)
+![screenshot of terminal](https://github.com/user-attachments/assets/c13e3f0f-0355-4bf7-a28f-2dd6fda66460)
 
-✅ Status
+
+### ✅ Status
 ✔️ Project Complete
 
 📝 Can be improved later with:
