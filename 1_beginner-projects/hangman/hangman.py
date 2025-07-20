@@ -15,25 +15,34 @@ for position in range(word_length):
 
 print(placeholder)
 
-# assigning variable to the guessed letter
+game_over = False
+correct_letters = []
 
-guess = input("Guess a letter: ").lower()
+# Using a while loop to let the user guess again.
 
-# adding a display that puts the guess letter in the right position and _ in the rest of the string
+while not game_over:
 
-display = ""
-for letter in chosen_word:
-    if letter == guess:
-        display += letter
-    else:
-        display += "_"
+    # assigning variable to the guessed letter
 
-print(display)
+    guess = input("Guess a letter: ").lower()
 
-# Checking does the guessed letter present in the chosen word
+    # adding a display that puts the guess letter in the right position and _ in the rest of the string
 
-for letter in chosen_word:
-    if letter == guess:
-        print("Right")
-    else:
-        print("Wrong")
+    display = ""
+
+    # Changing the for loop so that it can keep the previous correct letters in display
+
+    for letter in chosen_word:
+        if letter == guess:
+            display += letter
+            correct_letters.append(guess)
+        elif letter in correct_letters:
+            display += letter
+        else:
+            display += "_"
+
+    print(display)
+
+    if "_" not in display:
+        game_over = True
+        print("You Win")
