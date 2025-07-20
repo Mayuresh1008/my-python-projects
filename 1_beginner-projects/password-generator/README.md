@@ -33,3 +33,4 @@ A beginner-friendly **Python project** that generates strong, customizable passw
 
 ### Hard Version:
 
+![image](images/image2.png)
