@@ -28,12 +28,13 @@ A fun and beginner-friendly Python implementation of the classic **Hangman game*
 
 ## 📁 Project Structure
 
+```yaml
 hangman-game/
 ├── hangman.py # Main game logic
 ├── hangman_words.py # Contains word list
 ├── hangman_art.py # Contains ASCII logo and stages
 └── README.md # Project documentation
-
+```
 
 ---
 
